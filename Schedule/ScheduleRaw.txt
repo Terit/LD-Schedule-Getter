@@ -1,0 +1,8 @@
+7	Saturday	11 Oct 2014	11:30 to 20:00	0029	GEN - HBA 1
+8	Sunday	12 Oct 2014	Off	 	 
+9	Monday	13 Oct 2014	09:00 to 17:30	0029	GEN - HBA 1
+10	Tuesday	14 Oct 2014	07:00 to 15:30	0029	GEN - HBA 1
+11	Wednesday	15 Oct 2014	Off	 	 
+12	Thursday	16 Oct 2014	09:00 to 17:30	0029	GEN - HBA 1
+13	Friday	17 Oct 2014	06:00 to 14:30	0029	GEN - HBA 1
+14	Saturday	18 Oct 2014	09:00 to 17:30	0029	GEN - HBA 1
